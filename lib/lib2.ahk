@@ -6,18 +6,18 @@ key_AK := "Numpad5"
 key_Galil := "Numpad6"
 key_SG := "Numpad7"
 key_UMP := "Numpad8"
-key_off := "xButton2"
+key_off := "Numpad9"
 key_exit := ""
 key_shoot := "LButton"
 key_zoom := "LAlt"
 sens := 1.82
 zoomsens := 1
-PauseKey := "F12"
+PauseKey := "xButton2"
 smoothness := 0.7
 modifier:= 2.52/sens
 if (PauseKey = "")
 {
-    PauseKey := "F12"
+    PauseKey := "xButton2"
 }
 
 loop
