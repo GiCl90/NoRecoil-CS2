@@ -13,7 +13,7 @@ key_zoom := "LAlt"
 sens := 1.82
 zoomsens := 1
 PauseKey := "xButton2"
-smoothness := 0.7
+smoothness := 0
 modifier:= 2.52/sens
 if (PauseKey = "")
 {
